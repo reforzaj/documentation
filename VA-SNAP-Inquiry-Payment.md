@@ -1,4 +1,4 @@
-# SNAP VA Inquiry and Payment
+# SNAP VA: Inquiry and Payment
 ```mermaid
 sequenceDiagram
     title: SNAP VA: Inquiry & Payment
