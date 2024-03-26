@@ -1,7 +1,7 @@
 ``` mermaid
 sequenceDiagram
     autonumber
-    title: GET Payout
+    title: GET Payout by UUID
     participant a as Merchant
     participant b as Open API
     participant c as BE Portal
